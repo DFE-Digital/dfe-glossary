@@ -5,6 +5,20 @@ $govuk-new-link-styles: true;
 @import "_components/all.scss";
 @import "vendor/prism.scss";
 
+.app-alphabet-links {
+  p {
+    max-width: none;
+  }
+
+  a {
+    @include govuk-link-common;
+    @include govuk-link-style-no-visited-state;
+    @include govuk-font(24);
+    margin-right: govuk-spacing(2);
+    font-weight: bold;
+  }
+}
+
 @media print {
   // Force a white background when printing a page
   .govuk-template {
