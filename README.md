@@ -1,4 +1,6 @@
-# Department for Education abbreviations
+# Department for Education glossary
+
+Explanations of the terms DfE commonly uses
 
 Built using the GOV.UK design history:
 <https://design-history.herokuapp.com>

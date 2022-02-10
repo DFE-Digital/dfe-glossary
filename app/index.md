@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Department for Education glossary"
-description: "Explanations of the abbreviations DfE commonly uses"
+description: "Explanations of the terms DfE commonly uses"
 eleventyComputed:
   eleventyNavigation:
     key: home

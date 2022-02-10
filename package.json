@@ -5,7 +5,7 @@
   "engines": {
     "node": "^16.0.0"
   },
-  "description": "A glossary of Department for Education abbreviations",
+  "description": "A glossary of Department for Education terms",
   "keywords": [
     "design-history",
     "government",
