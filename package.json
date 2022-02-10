@@ -5,17 +5,17 @@
   "engines": {
     "node": "^16.0.0"
   },
-  "description": "A place for documenting GOV.UK service designs",
+  "description": "A glossary of Department for Education abbreviations",
   "keywords": [
     "design-history",
     "government",
     "govuk"
   ],
-  "author": "Becoming a teacher team",
+  "author": "Department for Education",
   "license": "MIT",
-  "homepage": "https://design-history.herokuapp.com",
-  "repository": "github:DFE-Digital/govuk-design-history",
-  "bugs": "https://github.com/DFE-Digital/govuk-design-history/issues",
+  "homepage": "https://dfe-glossary.herokuapp.com",
+  "repository": "github:fofr/dfe-glossary",
+  "bugs": "https://github.com/fofr/dfe-glossary/issues",
   "scripts": {
     "prebuild": "rimraf public",
     "build": "eleventy",

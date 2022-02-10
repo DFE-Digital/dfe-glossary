@@ -1,6 +1,6 @@
 .app-masthead {
-  @include govuk-responsive-padding(6, "top");
-  @include govuk-responsive-padding(6, "bottom");
+  @include govuk-responsive-padding(8, "top");
+  @include govuk-responsive-padding(5, "bottom");
   color: govuk-colour("white");
   background-color: govuk-colour("blue");
   margin-top: #{govuk-spacing(2) * -1};
