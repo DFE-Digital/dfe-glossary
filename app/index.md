@@ -120,7 +120,7 @@ The [Higher Education Statistics Agency](https://www.hesa.ac.uk) is the official
 
 ### Higher education institution (HEI)
 
-A generic term for organisations that teach at degree level or higher (’higher education’). Most of these are now called ‘universities’, which is a more commonly used term, but there are some which may call still call themselves colleges or use other terms.
+Usually a university. A generic term for organisations that teach at degree level or higher (’higher education’). Some still call themselves colleges or use another term.
 
 ## I
 
