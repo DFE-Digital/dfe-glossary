@@ -32,7 +32,7 @@ Used to describe teaching the study of languages no longer in widespread spoken 
 
 ### Becoming a teacher (BAT)
 
-Our service line.
+An internal term used to describe all of the services related to the journey to become a teacher (sometimes referred to as a ‘service line’).
 
 ### Bursaries AND Scholarships
 
@@ -54,7 +54,7 @@ A code used to identify courses (unique to a provider).
 
 ### Cycle
 
-The period during which ITT applications are open, usually beginning in October and ending in September.
+The period during which initial teacher training (ITT) applications are open, usually beginning in October and ending in September.
 
 ## D
 
@@ -86,11 +86,11 @@ Used to describe the use of English by people whose first language or languages 
 
 ### Early years initial teacher training (EYITT)
 
-The equivalent to ITT but specifically for teaching 0 to 5 year olds.
+The equivalent to initial teacher training (ITT) but specifically for teaching 0 to 5 year olds.
 
 ### Early years teacher status (EYTS)
 
-The equivalent to QTS and allows you to teach 0 to 5 year olds.
+The equivalent to Qualified Teacher Status (QTS) and allows you to teach 0 to 5 year olds.
 
 ## F
 
@@ -120,7 +120,7 @@ The [Higher Education Statistics Agency](https://www.hesa.ac.uk) is the official
 
 ### Higher education institution (HEI)
 
-A university.
+Usually a university. A generic term for organisations that teach at degree level or higher (’higher education’). Some still call themselves colleges or use another term.
 
 ## I
 
@@ -132,7 +132,7 @@ The training you have to do to become a teacher. It’s usually fine to say ’t
 
 ### Lead school
 
-The main organisation in a School Direct partnership. It can be a maintained school, academy, head office, sixth form college, pupil referral unit, or free school. It partners with other schools and accredited bodies to deliver teacher training courses. It has overall responsibility for making sure that School Direct criteria are upheld, and for requesting training places from DfE. Places are allocated directly to the lead school. A ’good’ or ’outstanding’ Ofsted rating is a requirement for lead schools.
+Within initial teacher training (ITT), this refers to the main organisation in a School Direct partnership. It can be a maintained school, academy, head office, sixth form college, pupil referral unit, or free school. It partners with other schools and accredited bodies to deliver teacher training courses. It has overall responsibility for making sure that School Direct criteria are upheld, and for requesting training places from DfE. Places are allocated directly to the lead school. A ’good’ or ’outstanding’ Ofsted rating is a requirement for lead schools.
 
 ## M
 
@@ -156,13 +156,13 @@ The [National Association of School-Based Teacher Trainers](https://www.nasbtt.o
 
 ### Niche routes
 
-Non-mainstream routes into teaching, for example, Teach First.
+An informal term for non-mainstream routes into teaching, for example, Teach First.
 
 ## O
 
 ### Organisation
 
-There’s no clear definition for this. We use it broadly to encompass the different types of entity involving in teacher training (schools, universities, School Directs, etc). So it’s a catch-all, umbrella term.
+A generic term used broadly to encompass the different types of entity involving in teacher training (schools, universities, School Directs, etc). Use a more specific term where appropriate.
 
 ## P
 
@@ -188,7 +188,7 @@ This is the qualification you need to teach in state schools in England. You can
 
 ### Rollover
 
-This takes place in Publish - it’s the copying over of courses from one recruitment cycle to the next. It starts in mid July and takes about a month in full. All courses are copied over; training providers can then eliminate any courses they don’t want to run, and make any other changes to ensure their course profiles are correct for the upcoming cycle.
+Within initial teacher training, this refers to the copying over of courses from one recruitment cycle to the next. It starts in mid July and takes about a month in full. All courses are copied over; training providers can then eliminate any courses they don’t want to run, and make any other changes to ensure their course profiles are correct for the upcoming cycle.
 
 ## S
 
@@ -198,11 +198,11 @@ See [Bursaries](#bursaries-and-scholarships).
 
 ### School centred initial teacher training (SCITT)
 
-School-centred initial teacher training provider. A SCITT is most commonly a school who have incorporated a separate legal entity (company) dedicated to delivering teacher training. SCITTs are accredited bodies.
+Within initial teacher training, School-centred initial teacher training (SCITT) is most commonly a school who have incorporated a separate legal entity (company) dedicated to delivering teacher training. SCITTs are accredited bodies.
 
 ### School direct (SD)
 
-Single school given school direct (fee and salaried) places. Must partner with an accredited body.
+Within initial teacher training, these are single schools able to recruit trainees. They must partner with an accredited body.
 
 ### Special educational needs and disability (SEND or SEN)
 
@@ -214,7 +214,7 @@ SITS:Vision, also known just as SITS, is a database application used for course 
 
 ### Subject knowledge enhancement (SKE)
 
-Subject knowledge enhancement courses are offered to enhance a candidates existing knowledge where they may not need a full course. See [Get Into Teaching’s page](https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/subject-knowledge-enhancement-ske-courses) for more details.
+Within initial teacher training, subject knowledge enhancement courses are offered to enhance a candidates existing knowledge where they may not need a full course. See [Get Into Teaching’s page](https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/subject-knowledge-enhancement-ske-courses) for more details.
 
 ### Student record system (SRS)
 
