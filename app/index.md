@@ -246,9 +246,9 @@ Used to predict and manage the ITT market.
 
 Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
 
-### Teaching Vacancies (TVS)
+### Teaching Vacancies
 
-A service for [advertising, finding and applying for teaching jobs](https://teaching-vacancies.service.gov.uk/). Capitalised. Do not use the acronym publicly.
+A service for [advertising, finding and applying for teaching jobs](https://teaching-vacancies.service.gov.uk/). Capitalised. Previously sometimes known within DfE by the acronym "TVS" (from previous name "Teacher Vacancy Service"), avoid using this or any other acronym.
 
 ## U
 
