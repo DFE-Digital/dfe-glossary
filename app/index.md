@@ -1,5 +1,6 @@
 ---
-layout: collection
+homepage: true
+layout: home
 title: "Department for Education glossary"
 description: "Explanations of the terms DfE commonly uses"
 eleventyComputed:

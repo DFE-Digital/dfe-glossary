@@ -1,0 +1,15 @@
+{% extends "layouts/product.njk" %}
+{% set title = "Department for<br />Education glossary" %}
+
+{% block pageTitle %}
+  Department for Education glossary
+  {{- " - " + options.header.organisationName -}}
+{% endblock %}
+
+{% block content %}
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-two-thirds">
+      {{ content }}
+    </div>
+  </div>
+{% endblock %}
