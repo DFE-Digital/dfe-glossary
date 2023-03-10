@@ -243,6 +243,10 @@ An executive agency of the DfE who maintains the database of qualified teachers 
 
 Used to predict and manage the ITT market.
 
+### Teacher workforce model (TWM)
+
+A statistical model used to predict and set targets for the numbers of teachers needed in the workforce.
+
 ### Teaching School Alliance
 
 Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
