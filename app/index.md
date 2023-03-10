@@ -129,6 +129,12 @@ Usually a university. A generic term for organisations that teach at degree leve
 
 The training you have to do to become a teacher. It’s usually fine to say ’teacher training’ rather than ’initial teacher training’. The ’ITT’ abbreviation should be avoided - instead say teacher training, or just training.
 
+## K
+
+### Keeping children safe in education (KCSIE)
+
+Statutory guidance for schools and colleges on safeguarding children and safer recruitment. See [Keeping children safe in education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2).
+
 ## L
 
 ### Lead school
