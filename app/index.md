@@ -193,6 +193,10 @@ This is a teaching qualification that - when it’s paired with QTS (qualified t
 
 Very similar to the PGCE. Generally includes more credits towards a Master’s degree.
 
+### Postgraduate initial teacher training (PGITT)
+
+Initial teacher training done after graduating with a degree.
+
 ### Provider led
 
 A course that that is led by an HEI or a SCITT (the opposite of school led/based).
