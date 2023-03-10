@@ -115,6 +115,10 @@ A marketing campaign and website to encourage people to become a teacher. The br
 
 ## H
 
+### High potential initial teacher training (HPITT)
+
+This is a two year postgraduate initial teacher training route where graduates are paid a salary. The scheme is run by [Teach First](https://www.teachfirst.org.uk/training-programme), a registered salary, and is more publicly known by the name ‘teach first’.
+
 ### Higher Education Statistics Agency (HESA)
 
 The [Higher Education Statistics Agency](https://www.hesa.ac.uk) is the official agency for the collection, analysis and dissemination of quantitative information about higher education in the United Kingdom.
@@ -128,6 +132,10 @@ Usually a university. A generic term for organisations that teach at degree leve
 ### Initial teacher training (ITT)
 
 The training you have to do to become a teacher. It’s usually fine to say ’teacher training’ rather than ’initial teacher training’. The ’ITT’ abbreviation should be avoided - instead say teacher training, or just training.
+
+### International qualified teacher status (iQTS)
+
+A UK teaching qualification where applicants study and train outside of the UK, and leads to the automatic award of qualified teacher status (QTS). See [Introducing international qualified teacher status (iQTS)](https://www.gov.uk/government/publications/international-qualified-teacher-status-iqts/introducing-the-international-qualified-teacher-status-iqts-pilot).
 
 ## K
 
@@ -160,6 +168,10 @@ A single trust responsible for a group of academies. MATs can be providers but c
 ### National Association of School-Based Teacher Trainers (NASBTT)
 
 The [National Association of School-Based Teacher Trainers](https://www.nasbtt.org.uk) is a registered charity which represents the interests of schools-led teacher training provision in relation to the development and implementation of national policy developments. They are the largest representative body of SCITTs and School Directs.
+
+### National professional qualifications (NPQ)
+
+These are professional qualifications that qualified teachers can take as part of their continual professional development. See [Professional development for teachers and leaders](https://professional-development-for-teachers-leaders.education.gov.uk).
 
 ### Niche routes
 
