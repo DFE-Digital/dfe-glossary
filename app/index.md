@@ -129,6 +129,10 @@ Usually a university. A generic term for organisations that teach at degree leve
 
 The training you have to do to become a teacher. It’s usually fine to say ’teacher training’ rather than ’initial teacher training’. The ’ITT’ abbreviation should be avoided - instead say teacher training, or just training.
 
+### International qualified teacher status (iQTS)
+
+A UK teaching qualification where applicants study and train outside of the UK, and leads to the automatic award of qualified teacher status (QTS). See [Introducing international qualified teacher status (iQTS)](https://www.gov.uk/government/publications/international-qualified-teacher-status-iqts/introducing-the-international-qualified-teacher-status-iqts-pilot).
+
 ## L
 
 ### Lead school
