@@ -117,7 +117,7 @@ A marketing campaign and website to encourage people to become a teacher. The br
 
 ### High potential initial teacher training (HPITT)
 
-This is a two year postgraduate initial teacher training route where graduates are paid a salary. The scheme is run by [Teach First](https://www.teachfirst.org.uk/training-programme), a registered salary, and is more publicly known by the name "teach first".
+This is a two year postgraduate initial teacher training route where graduates are paid a salary. The scheme is run by [Teach First](https://www.teachfirst.org.uk/training-programme), a registered salary, and is more publicly known by the name ‘teach first’.
 
 ### Higher Education Statistics Agency (HESA)
 
