@@ -155,6 +155,10 @@ A single trust responsible for a group of academies. MATs can be providers but c
 
 The [National Association of School-Based Teacher Trainers](https://www.nasbtt.org.uk) is a registered charity which represents the interests of schools-led teacher training provision in relation to the development and implementation of national policy developments. They are the largest representative body of SCITTs and School Directs.
 
+### National professional qualifications (NPQ)
+
+These are professional qualifications that qualified teachers can take as part of their continual professional development. See [Professional development for teachers and leaders](https://professional-development-for-teachers-leaders.education.gov.uk).
+
 ### Niche routes
 
 An informal term for non-mainstream routes into teaching, for example, Teach First.
