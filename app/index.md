@@ -137,6 +137,12 @@ The training you have to do to become a teacher. It’s usually fine to say ’t
 
 A UK teaching qualification where applicants study and train outside of the UK, and leads to the automatic award of qualified teacher status (QTS). See [Introducing international qualified teacher status (iQTS)](https://www.gov.uk/government/publications/international-qualified-teacher-status-iqts/introducing-the-international-qualified-teacher-status-iqts-pilot).
 
+## K
+
+### Keeping children safe in education (KCSIE)
+
+Statutory guidance for schools and colleges on safeguarding children and safer recruitment. See [Keeping children safe in education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2).
+
 ## L
 
 ### Lead school
