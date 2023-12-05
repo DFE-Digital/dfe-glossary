@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "govuk-eleventy-plugin": "^4.0.0",
+    "@x-govuk/govuk-eleventy-plugin": "^5.0.6",
     "http-server": "^14.1.1",
     "rimraf": "^4.4.1",
     "sass": "^1.69.5"
@@ -34,7 +34,7 @@
   },
   "private": true,
   "engines": {
-    "node": "^16.0.0"
+    "node": "^20.0.0"
   },
   "standard": {
     "ignore": [

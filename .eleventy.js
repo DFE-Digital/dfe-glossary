@@ -1,6 +1,6 @@
 module.exports = function (eleventyConfig) {
   // Plugins
-  eleventyConfig.addPlugin(require('govuk-eleventy-plugin'), {
+  eleventyConfig.addPlugin(require('@x-govuk/govuk-eleventy-plugin'), {
     stylesheets: [
       '/styles/application.css'
     ],
