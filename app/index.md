@@ -9,6 +9,18 @@ eleventyComputed:
     title: "{{ title }}"
 ---
 
+{% from "govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+
+{% set html %}
+  <p class="govuk-notification-banner__heading">
+    This page is being merged into the new <a href="https://design.education.gov.uk/content-design/style-guide" class="govuk-link">Department for Education style guide</a>
+  </p>
+{% endset %}
+
+{{ govukNotificationBanner({
+  html: html
+}) }}
+
 ## A
 
 ### Ancient languages
