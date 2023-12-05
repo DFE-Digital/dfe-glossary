@@ -73,10 +73,6 @@ A service from the Disclosure and Barring Service which checks for any potential
 
 These apply to chemistry, languages, maths and physics. They’re sums of money you get after you’ve qualified as a teacher - they’re paid out in your second, third and fourth year of teaching. You get £2k each year - £3k in some parts of the country.
 
-### English Baccalaureate (EBacc)
-
-A combination of subjects (the ‘core’ subjects, academically) that pupils can study at GCSE level. The EBacc is not a qualification in itself. The government assesses school performance based on how well pupils perform in the EBacc subjects. It’s also used as something of a marketing device - pupils are encouraged to choose these subjects.
-
 ### English as a foreign language
 
 Used to describe the use of English by people whose first language or languages are not English. The teaching of this is a specialism sometimes described as ‘teaching English as a foreign language’ (TEFL). The use of English as a foreign language can be assessed through formal assessments such the ‘International English Language Testing System’ (IELTS) and ‘Test of English as a Foreign Language’ (TOEFL).
@@ -85,19 +81,11 @@ Used to describe the use of English by people whose first language or languages 
 
 The equivalent to initial teacher training (ITT) but specifically for teaching 0 to 5 year olds.
 
-### Early years teacher status (EYTS)
-
-The equivalent to Qualified Teacher Status (QTS) and allows you to teach 0 to 5 year olds.
-
 ## F
 
 ### Fitness to teach check
 
 This is not a specific check, but a general description of assessments of a person’s health and physical and mental capacity to teach. Each provider may use different processes or services for these checks, which are usually a condition of offers on teacher training courses.
-
-### Further Education
-
-This is an educational level between secondary and higher education. It tends to be vocational. Most people studying FE courses will be over 16, but some courses are available to people aged 14 and over. FE courses are usually taught in FE colleges, sixth form colleges, and adult education centres (ie not schools). Strictly speaking, A Levels are part of FD - however, the term is generally used to refer to non-academic, vocational/skills-focused training.
 
 ## G
 
@@ -120,10 +108,6 @@ The [Higher Education Statistics Agency](https://www.hesa.ac.uk) is the official
 Usually a university. A generic term for organisations that teach at degree level or higher (’higher education’). Some still call themselves colleges or use another term.
 
 ## I
-
-### Initial teacher training (ITT)
-
-The training you have to do to become a teacher. It’s usually fine to say ’teacher training’ rather than ’initial teacher training’. The ’ITT’ abbreviation should be avoided - instead say teacher training, or just training.
 
 ### International qualified teacher status (iQTS)
 
@@ -183,10 +167,6 @@ Initial teacher training done after graduating with a degree.
 A course that that is led by an HEI or a SCITT (the opposite of school led/based).
 
 ## Q
-
-### Qualified teacher status (QTS)
-
-This is the qualification you need to teach in state schools in England. You can’t teach without it.
 
 ## R
 
