@@ -41,10 +41,6 @@ These are sums of money available to trainees on (fee-based) courses in certain 
 
 ## C
 
-### Continuous professional development (CPD)
-
-A generic term referring to training of people already qualified and in employment. Avoid using the acronym, or spell it out on first use.
-
 ### Course
 
 A training programme providers create for candidates to apply to.
@@ -109,10 +105,6 @@ This is an educational level between secondary and higher education. It tends to
 
 This is a [register of schools and colleges in England](https://get-information-schools.service.gov.uk/).
 
-### Get Into Teaching (GIT)
-
-A marketing campaign and website to encourage people to become a teacher. The brand is capitalised, and the acronym should not be used publicly. See [Get Into Teaching](https://getintoteaching.education.gov.uk) website.
-
 ## H
 
 ### High potential initial teacher training (HPITT)
@@ -159,23 +151,12 @@ The commonly used name of an educational organisation. This may not be the legal
 
 This term is sometimes used to differentiate the teaching of languages in everyday use from ‘ancient languages’ such as Latin and Ancient Greek which are no longer widely spoken. It also typically does not include teaching English. Prefer listing the specific languages where possible.
 
-### Multi-academy trust (MAT)
-
-A single trust responsible for a group of academies. MATs can be providers but cannot be lead schools.
 
 ## N
 
 ### National Association of School-Based Teacher Trainers (NASBTT)
 
 The [National Association of School-Based Teacher Trainers](https://www.nasbtt.org.uk) is a registered charity which represents the interests of schools-led teacher training provision in relation to the development and implementation of national policy developments. They are the largest representative body of SCITTs and School Directs.
-
-### National professional qualifications (NPQ)
-
-These are professional qualifications that qualified teachers can take as part of their continual professional development. See [Professional development for teachers and leaders](https://professional-development-for-teachers-leaders.education.gov.uk).
-
-### Niche routes
-
-An informal term for non-mainstream routes into teaching, for example, Teach First.
 
 ## O
 
@@ -227,17 +208,9 @@ Within initial teacher training, School-centred initial teacher training (SCITT)
 
 Within initial teacher training, these are single schools able to recruit trainees. They must partner with an accredited body.
 
-### Special educational needs and disability (SEND or SEN)
-
-Needs and disabilities that can affect a child’s ability to learn. These children may be eligible for additional support. Both SEND and SEN acronyms are widely used, but the term should always be spelled out, uncapitalised, on initial use. See [Children with special education needs and disabilities (SEND)](https://www.gov.uk/children-with-special-educational-needs) on GOV.UK.
-
 ### SITS
 
 SITS:Vision, also known just as SITS, is a database application used for course and student management developed and maintained by the [Tribal Group](https://en.wikipedia.org/wiki/SITS:Vision). This is the most common student record system used by providers.
-
-### Subject knowledge enhancement (SKE)
-
-Within initial teacher training, subject knowledge enhancement courses are offered to enhance a candidates existing knowledge where they may not need a full course. See [Get Into Teaching’s page](https://getintoteaching.education.gov.uk/explore-my-options/teacher-training-routes/subject-knowledge-enhancement-ske-courses) for more details.
 
 ### Student record system (SRS)
 
@@ -252,10 +225,6 @@ Part of DfE.
 ### Teacher Qualifications Unit (TQU)
 
 Administers the Database of Qualified Teachers.
-
-### Teacher Reference Number (TRN)
-
-A unique number assigned to new teachers. The TRN follows teachers from training right through to pensions.
 
 ### Teacher Regulation Agency (TRA)
 
@@ -272,10 +241,6 @@ A statistical model used to predict and set targets for the numbers of teachers 
 ### Teaching School Alliance
 
 Outstanding schools that work with others to provide high quality training to new and experienced staff. Cannot be lead schools or providers.
-
-### Teaching Vacancies
-
-A service for [advertising, finding and applying for teaching jobs](https://teaching-vacancies.service.gov.uk/). Capitalised. Previously sometimes known within DfE by the acronym "TVS" (from previous name "Teacher Vacancy Service"), avoid using this or any other acronym.
 
 ## U
 
@@ -294,7 +259,3 @@ Previous name for UK ENIC, whilst the UK was part of the EU.
 ### UK Provider Reference Number (UKPRN)
 
 This is the unique identifier given to higher education providers.
-
-### Unique Reference Number (URN)
-
-This is the unique reference number given to all schools by Edubase.
