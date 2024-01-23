@@ -73,14 +73,6 @@ This is a [register of schools and colleges in England](https://get-information-
 
 This is a two year postgraduate initial teacher training route where graduates are paid a salary. The scheme is run by [Teach First](https://www.teachfirst.org.uk/training-programme), a registered salary, and is more publicly known by the name ‘teach first’.
 
-### Higher Education Statistics Agency (HESA)
-
-The [Higher Education Statistics Agency](https://www.hesa.ac.uk) is the official agency for the collection, analysis and dissemination of quantitative information about higher education in the United Kingdom.
-
-### Higher education institution (HEI)
-
-Usually a university. A generic term for organisations that teach at degree level or higher (’higher education’). Some still call themselves colleges or use another term.
-
 ## I
 
 ### International qualified teacher status (iQTS)
